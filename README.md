@@ -11,4 +11,4 @@ Materials:
 
 * [Course outline](https://github.com/uwidcit/COMP3607/blob/master/course-outline.pdf)
 * [Lecture #1 Slides](https://github.com/uwidcit/COMP3607/blob/master/lecture-1-deck.pdf)
-* [Lecture #3 Slides](https://github.com/uwidcit/COMP3607/blob/master/lecture-2-deck.pdf)
+* [Lecture #2 Slides](https://github.com/uwidcit/COMP3607/blob/master/lecture-2-deck.pdf)
