@@ -1,3 +1,9 @@
+## Monday 10th September 2018
+
+Materials:
+
+* [Lecture #3 Slides](https://github.com/uwidcit/COMP3607/blob/master/lecture-3-deck.pdf)
+
 ## Wednesday 5th September 2018
 Students!
 There is an open forum area for you to post your code snippets (examples of code smells) in myElearning. Those who post examples here successfully by Sep. 9, 2018 will receive a boon. You will get 1 day of grace beyond the due date of any course assignment for one-time use at your discretion.
