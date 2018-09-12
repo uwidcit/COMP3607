@@ -1,3 +1,8 @@
+## Wednesday 12th September 2018
+
+Lab1:
+* [Lab #1](https://github.com/uwidcit/COMP3607/blob/master/lab1.pdf)
+
 ## Monday 10th September 2018
 
 Materials:
