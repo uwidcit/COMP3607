@@ -1,3 +1,7 @@
+## Monday 17th September 2018
+Assignment 1:
+* [Assignment #1](https://github.com/uwidcit/COMP3607/blob/master/assignment-1.pdf)
+
 ## Wednesday 12th September 2018
 
 Lab1:
