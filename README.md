@@ -1,3 +1,9 @@
+
+## Week 3
+* [Lecture #4](https://github.com/uwidcit/COMP3607/blob/master/lecture4.pdf)
+* [Lecture #5](https://github.com/uwidcit/COMP3607/blob/master/lecture5.pdf)
+* [Lecture #6](https://github.com/uwidcit/COMP3607/blob/master/lecture6.pdf)
+
 ## Monday 17th September 2018
 Assignment 1:
 * [Assignment #1](https://github.com/uwidcit/COMP3607/blob/master/assignment-1.pdf)
