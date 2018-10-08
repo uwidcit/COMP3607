@@ -1,4 +1,10 @@
 
+
+## Week 3
+* [Lecture #9](https://github.com/uwidcit/COMP3607/blob/master/lecture9.pdf)
+* [Lecture #10](https://github.com/uwidcit/COMP3607/blob/master/lecture10.pdf)
+* [Lecture #11](https://github.com/uwidcit/COMP3607/blob/master/lecture11.pdf)
+
 ## Friday 5th October 2018
 * [Problem Set](https://github.com/uwidcit/COMP3607/blob/master/COMP3607-Tutorial-Lab-4.pdf)
 
